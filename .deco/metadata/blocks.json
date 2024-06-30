@@ -116,12 +116,6 @@
     "blockType": "apps",
     "__resolveType": "decohub/apps/htmx.ts"
   },
-  "/.deco/blocks/pages-Blog%2520Post%2520Page-827555.json": {
-    "name": "Blog Post Page",
-    "path": "/blog/:slug",
-    "blockType": "pages",
-    "__resolveType": "website/pages/Page.tsx"
-  },
   "/.deco/blocks/pages-home-5afd25174424.json": {
     "name": "Home",
     "path": "/",
