@@ -1,0 +1,23 @@
+{
+  "name": "Home",
+  "path": "/",
+  "sections": [
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "site/sections/Hero.tsx",
+      "title": "<h1><strong><span style=\"color: #45c5ef\">Seja bem vindo ao Summer Code 2024 </span></strong></h1><h1><strong><span style=\"color: #45c5ef\">da Fundação Estudar!</span></strong></h1><h1></h1>",
+      "description": "Aqui você pode acessar os links e o cronograma do evento."
+    },
+    {
+      "__resolveType": "site/sections/Footer.tsx",
+      "subscribe": {}
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx",
+  "seo": {
+    "type": "website",
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "collections/blog/authors/bbb335e2bd66",
+  "__resolveType": "blog/loaders/Author.ts",
+  "author": {
+    "name": "Os links para acessar o material do curso",
+    "email": "joaovictor@estudar.org.br"
+  }
+}
